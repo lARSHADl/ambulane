@@ -1,4 +1,4 @@
-# Ambulance
+# Ambulane
 An automated traffic signal managment system.
 
 Ambulane is an automated traffic managment system specially designed to reduce the delay in reaching to the hospital on time
